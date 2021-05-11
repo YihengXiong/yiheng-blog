@@ -6,9 +6,14 @@ summary: ""
 draft: false
 featured: false
 image:
-  filename: 1620697266-1-.png
+  filename: ""
   focal_point: TOP
   preview_only: false
 ---
+
+
+![](1620697266-1-.png)
+
 ### Control-Flow Graph
+
 is a graph summarizes the flow of control in all possible runs of the program
